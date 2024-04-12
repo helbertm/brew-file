@@ -45,6 +45,7 @@ cask "whatsapp"
 cask "miniconda"
 cask "warp"
 cask "logi-options-plus"
+cask "protonvpn"
 mas "1Password for Safari", id: 1569813296
 mas "Airmail", id: 918858936
 mas "Evernote", id: 406056744
